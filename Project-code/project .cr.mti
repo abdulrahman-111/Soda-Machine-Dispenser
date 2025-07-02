@@ -1,0 +1,29 @@
+{D:/Courses Material/DIgital/Verilog/Project/new edit.v} {1 {vlog -work work -stats=none {D:\Courses Material\DIgital\Verilog\Project\new edit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module a5leha_3la_allah_new
+
+Top level modules:
+	a5leha_3la_allah_new
+
+} {} {}} {D:/Courses Material/DIgital/Verilog/Project/vv.v} {1 {vlog -work work -stats=none {D:/Courses Material/DIgital/Verilog/Project/vv.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module vproj
+
+Top level modules:
+	vproj
+
+} {} {}} {D:/Courses Material/DIgital/Verilog/Project/ala allah.v} {1 {vlog -work work -stats=none {D:/Courses Material/DIgital/Verilog/Project/ala allah.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module a5leha_3la_allah
+
+Top level modules:
+	a5leha_3la_allah
+
+} {} {}} {D:/Courses Material/DIgital/Verilog/Project/vvfornew.v} {1 {vlog -work work -stats=none {D:/Courses Material/DIgital/Verilog/Project/vvfornew.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module vprojnew
+
+Top level modules:
+	vprojnew
+
+} {} {}}

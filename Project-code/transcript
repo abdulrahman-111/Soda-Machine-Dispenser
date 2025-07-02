@@ -1,0 +1,86 @@
+# Compile of ala allah.v was successful.
+# Compile of vv.v was successful.
+# Compile of new edit.v was successful.
+# Compile of vvfornew.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim work.vprojnew
+# vsim work.vprojnew 
+# Start time: 08:35:31 on Dec 26,2024
+# Loading work.vprojnew
+# Loading work.a5leha_3la_allah_new
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint  \
+sim:/vprojnew/rst \
+sim:/vprojnew/clk \
+sim:/vprojnew/N \
+sim:/vprojnew/D \
+sim:/vprojnew/Q \
+sim:/vprojnew/dis \
+sim:/vprojnew/oN \
+sim:/vprojnew/oD \
+sim:/vprojnew/o2D
+add wave -position insertpoint  \
+sim:/vprojnew/dut/current \
+sim:/vprojnew/dut/next
+run -all
+# ** Note: $stop    : D:/Courses Material/DIgital/Verilog/Project/vvfornew.v(129)
+#    Time: 640 ps  Iteration: 1  Instance: /vprojnew
+# Break in Module vprojnew at D:/Courses Material/DIgital/Verilog/Project/vvfornew.v line 129
+# Compile of ala allah.v was successful.
+# Compile of vv.v was successful.
+# Compile of new edit.v was successful.
+# Compile of vvfornew.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.vprojnew
+# Loading work.a5leha_3la_allah_new
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : D:/Courses Material/DIgital/Verilog/Project/vvfornew.v(130)
+#    Time: 640 ps  Iteration: 1  Instance: /vprojnew
+# Break in Module vprojnew at D:/Courses Material/DIgital/Verilog/Project/vvfornew.v line 130
+# Compile of ala allah.v was successful.
+# Compile of vv.v was successful.
+# Compile of new edit.v was successful.
+# Compile of vvfornew.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.vprojnew
+# Loading work.a5leha_3la_allah_new
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : D:/Courses Material/DIgital/Verilog/Project/vvfornew.v(118)
+#    Time: 620 ps  Iteration: 1  Instance: /vprojnew
+# Break in Module vprojnew at D:/Courses Material/DIgital/Verilog/Project/vvfornew.v line 118
+vsim work.vprojnew
+# End time: 10:52:44 on Dec 26,2024, Elapsed time: 2:17:13
+# Errors: 0, Warnings: 1
+# vsim work.vprojnew 
+# Start time: 10:52:44 on Dec 26,2024
+# Loading work.vprojnew
+# Loading work.a5leha_3la_allah_new
+add wave -position insertpoint  \
+sim:/vprojnew/rst \
+sim:/vprojnew/clk \
+sim:/vprojnew/N \
+sim:/vprojnew/D \
+sim:/vprojnew/Q \
+sim:/vprojnew/dis \
+sim:/vprojnew/oN \
+sim:/vprojnew/oD \
+sim:/vprojnew/o2D
+add wave -position insertpoint  \
+sim:/vprojnew/dut/current \
+sim:/vprojnew/dut/next
+run -all
+# ** Note: $stop    : D:/Courses Material/DIgital/Verilog/Project/vvfornew.v(118)
+#    Time: 620 ps  Iteration: 1  Instance: /vprojnew
+# Break in Module vprojnew at D:/Courses Material/DIgital/Verilog/Project/vvfornew.v line 118
+# End time: 10:54:42 on Dec 26,2024, Elapsed time: 0:01:58
+# Errors: 0, Warnings: 1

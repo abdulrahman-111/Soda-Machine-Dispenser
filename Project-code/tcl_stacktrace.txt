@@ -1,0 +1,36 @@
+Fri Dec 20 18:17:55 +0200 2024
+Trace back: can't read "vsimPriv(tr_status)": no such element in array
+    while executing
+"set tr_status $vsimPriv(tr_status)"
+    (procedure "Wave::1Up" line 9)
+    invoked from within
+"Wave::1Up $widget $x $y"
+    (procedure "Wave::SelectUp" line 4)
+    invoked from within
+"Wave::SelectUp	 .main_pane.wave.interior.cs.body.pw.wf.grid.row0,wave.data 765 461 1066 745 "
+    (command bound to event)
+  <2:C:/intelFPGA/20.1/modelsim_ase/win32aloem/tk8.6/bgerror.tcl:106: ::tkerror {can't read "vsimPriv(tr_status)": no such element in array}
+  <1:C:/mtitcl/vsim/vsiminit.tc_:523: ::tk::dialog::error::bgerror {can't read "vsimPriv(tr_status)": no such element in array}
+Fri Dec 20 18:18:59 +0200 2024
+Trace back: can't read "vsimPriv(tr_status)": no such element in array
+    while executing
+"set tr_status $vsimPriv(tr_status)"
+    (procedure "Wave::1Up" line 9)
+    invoked from within
+"Wave::1Up $widget $x $y"
+    (procedure "Wave::SelectUp" line 4)
+    invoked from within
+"Wave::SelectUp	 .main_pane.wave.interior.cs.body.pw.wf.grid.row0,wave.data 806 453 1085 740 "
+    (command bound to event)
+  <2:C:/intelFPGA/20.1/modelsim_ase/win32aloem/tk8.6/bgerror.tcl:106: ::tkerror {can't read "vsimPriv(tr_status)": no such element in array}
+  <1:C:/mtitcl/vsim/vsiminit.tc_:523: ::tk::dialog::error::bgerror {can't read "vsimPriv(tr_status)": no such element in array}
+Fri Dec 20 18:37:12 +0200 2024
+Trace back: can't read "vsimPriv(tr_status)": no such element in array
+    while executing
+"set tr_status $vsimPriv(tr_status)"
+    (procedure "Wave::1Up" line 9)
+    invoked from within
+"Wave::1Up .main_pane.wave.interior.cs.body.pw.wf.grid.cursor,wave.data 794 8"
+    (command bound to event)
+  <2:C:/intelFPGA/20.1/modelsim_ase/win32aloem/tk8.6/bgerror.tcl:106: ::tkerror {can't read "vsimPriv(tr_status)": no such element in array}
+  <1:C:/mtitcl/vsim/vsiminit.tc_:523: ::tk::dialog::error::bgerror {can't read "vsimPriv(tr_status)": no such element in array}
