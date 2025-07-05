@@ -1,2 +1,0 @@
-# DIGITAL-PROJECT
-
