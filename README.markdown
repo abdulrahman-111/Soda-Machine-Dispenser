@@ -17,14 +17,6 @@ The **Soda Machine Dispenser Project** is a Finite State Machine (FSM) designed 
 - **Verilog Files**: Ensure `osleha_lla_allah_new.v` and `vprojnew.v` are available in the project directory.
 - **Documentation**: Refer to `Documentation.pdf` for detailed design and testing information.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/soda-machine-dispenser.git
-   ```
-2. Ensure the Verilog files (`osleha_lla_allah_new.v`, `vprojnew.v`) are in the project directory.
-3. Open your Verilog simulation tool (e.g., ModelSim or Vivado) and set up the project directory.
 
 ## Usage
 
@@ -56,24 +48,15 @@ The **Soda Machine Dispenser Project** is a Finite State Machine (FSM) designed 
   - Expected Output: `dis = 1` (soda dispensed), no change returned (total = 35¢ - 25¢ = 10¢, no valid change combination).
   - Waveform: Confirms state transitions and correct output signals.
 
-## Contributing
 
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
 
 ## Authors
 
 - Team: **5leha 3la Allah**
+- Team leader: Abdulrahman Gomaa
 - Instructor: Dr. Hany M. Zamil
 - Teaching Assistant: Eng. Amr Al-Iraqi
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
